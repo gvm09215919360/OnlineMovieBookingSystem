@@ -1,0 +1,36 @@
+{
+  "name": "Online Movie Booking System",
+  "short_name": "MovieBook",
+  "description": "Book your movie tickets online",
+  "start_url": "/OnlineMovieBookingSystem---PHP-MYSQL-main/",
+  "scope": "/OnlineMovieBookingSystem---PHP-MYSQL-main/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#e50914",
+  "icons": [
+    {
+      "src": "/OnlineMovieBookingSystem---PHP-MYSQL-main/icons/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/OnlineMovieBookingSystem---PHP-MYSQL-main/icons/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+    "screenshots": [
+  {
+    "src": "/OnlineMovieBookingSystem---PHP-MYSQL-main/screenshots/desktop.png",
+    "sizes": "1902x1053",
+    "type": "image/png",
+    "form_factor": "wide"
+  },
+  {
+    "src": "/OnlineMovieBookingSystem---PHP-MYSQL-main/screenshots/mobile.png",
+    "sizes": "369x802",
+    "type": "image/png",
+    "form_factor": "narrow"
+  }
+]
+}
